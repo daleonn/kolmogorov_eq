@@ -1,2 +1,2 @@
-# Analysis of Kolmogorov system of equations using
-# classical and simulation modeling
+# Analysis of Kolmogorov system of equations
+Using classical and simulation modeling
